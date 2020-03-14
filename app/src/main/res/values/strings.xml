@@ -1,0 +1,46 @@
+<resources>
+    <string name="app_name">Eduguide</string>
+    <string name="title_activity_program_category">Educational Programs</string>
+    <string name="title_activity_program_info">Qualifications</string>
+    <string name="title_activity_program_detail">Program Detail</string>
+    <string name="title_activity_program_information_add">Add Course</string>
+
+    <string name="large_text">N/A</string>
+    <string name="action_settings">Settings</string>
+
+
+    <string name="program_category_prompt">Choose a program category</string>
+    <string-array name="program_category_arrays">
+        <item>Business</item>
+        <item>Information Technology</item>
+        <item>English Language</item>
+        <item>Construction</item>
+    </string-array>
+
+    <string name="credit_prompt">Choose a credit</string>
+    <string-array name="credit_arrays">
+        <item>60</item>
+        <item>120</item>
+        <item>240</item>
+        <item>360</item>
+    </string-array>
+
+    <string name="level_prompt">Choose a level</string>
+    <string-array name="level_arrays">
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
+        <item>6</item>
+        <item>7</item>
+        <item>8</item>
+        <item>9</item>
+    </string-array>
+
+    <string name="duration_prompt">Choose a duration</string>
+    <string-array name="duration_arrays">
+        <item>Full-time for 16 weeks</item>
+        <item>Full-time for 1 year</item>
+        <item>Full-time for 2 year</item>
+        <item>Full-time for 3 year</item>
+    </string-array>
+</resources>

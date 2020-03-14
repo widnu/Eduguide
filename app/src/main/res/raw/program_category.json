@@ -1,0 +1,29 @@
+{
+  "program_category": [
+    {
+      "id": "1",
+      "name": "Business",
+      "description": "Business category",
+      "image": "business_img"
+    },
+    {
+      "id": "2",
+      "name": "Information Technology",
+      "description": "IT category",
+      "image": "infotech_img"
+    },
+    {
+      "id": "3",
+      "name": "English Language",
+      "description": "English category",
+      "image": "englang_img"
+    },
+    {
+      "id": "4",
+      "name": "Construction",
+      "description": "Construction category",
+      "image": "construction_img"
+    }
+  ]
+
+}

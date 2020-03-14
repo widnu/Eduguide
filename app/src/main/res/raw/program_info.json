@@ -1,0 +1,76 @@
+{
+  "program_information": [
+    {
+      "id": "1",
+      "program_category_id": "1",
+      "qualification_name": "Graduate Diploma in Applied Management",
+      "icon": "gdam_icon",
+      "credit": "120",
+      "level": "7",
+      "duration": "Full-time for 1 year"
+    },
+    {
+      "id": "2",
+      "program_category_id": "3",
+      "qualification_name": "New Zealand Certificate in English Language",
+      "icon": "nzcel_icon",
+      "credit": "60",
+      "level": "4",
+      "duration": "Full-time for 16 weeks"
+    },
+    {
+      "id": "3",
+      "program_category_id": "2",
+      "qualification_name": "Bachelor of Information Technology",
+      "icon": "bit_icon",
+      "credit": "360",
+      "level": "7",
+      "duration": "Full-time for 3 years"
+    },
+    {
+      "id": "4",
+      "program_category_id": "2",
+      "qualification_name": "Graduate Diploma in Information Technology",
+      "icon": "gdit_icon",
+      "credit": "120",
+      "level": "7",
+      "duration": "Full-time for 1 year"
+    },
+    {
+      "id": "5",
+      "program_category_id": "1",
+      "qualification_name": "Postgraduate Diploma in Applied Management",
+      "icon": "pdam_icon",
+      "credit": "120",
+      "level": "8",
+      "duration": "Full-time for 1 year"
+    },
+    {
+      "id": "6",
+      "program_category_id": "1",
+      "qualification_name": "Bachelor of Applied Management (Accounting)",
+      "icon": "bama_icon",
+      "credit": "360",
+      "level": "7",
+      "duration": "Full-time for 3 years"
+    },
+    {
+      "id": "7",
+      "program_category_id": "1",
+      "qualification_name": "Bachelor of Applied Management",
+      "icon": "bam_icon",
+      "credit": "360",
+      "level": "7",
+      "duration": "Full-time for 3 years"
+    },
+    {
+      "id": "8",
+      "program_category_id": "4",
+      "qualification_name": "New Zealand Diploma in Construction",
+      "icon": "nzdc_icon",
+      "credit": "240",
+      "level": "6",
+      "duration": "Full-time for 2 years"
+    }
+  ]
+}
